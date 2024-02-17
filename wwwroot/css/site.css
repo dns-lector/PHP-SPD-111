@@ -1,5 +1,9 @@
 body {
-	background-color: #aaa;
+	background-color: #eee;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	min-height: 100vh;
 }
 .brand-logo img {
 	max-height: 50px;
